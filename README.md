@@ -29,10 +29,10 @@
 
 <div align="center">
   
-<!--<img src="https://user-images.githubusercontent.com/78174997/178970849-ea5ff831-b657-4797-b1e7-940a2497aba9.gif" width="100%" height="400"/>-->
+<img src="https://user-images.githubusercontent.com/110030271/180992417-c7ee70a2-10d7-4ed8-ac59-5619111b7599.png" width="50%" height="500"/>
 
-<img src="https://user-images.githubusercontent.com/78174997/178969123-eccebdd2-90f9-4eb3-9ddf-ef13245a18fe.gif" width="100%" height="450"/>
-  
+<!--<img src="https://user-images.githubusercontent.com/78174997/178969123-eccebdd2-90f9-4eb3-9ddf-ef13245a18fe.gif" width="100%" height="450"/>-->
+
 </div>
 
 #
