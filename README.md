@@ -94,7 +94,7 @@
 
 <div align="center">
   <p>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreresyl&show_icons=true&locale=en&layout=compact&theme=dracula" alt="andreresyl" />&nbsp
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreresyl&show_icons=true&locale=en&theme=dracula" alt="andreresyl" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreresyl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="andreresyl" />&nbsp
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andreresyl&show_icons=true&locale=en&theme=tokyonight" alt="andreresyl" />
   </p>
 </div>
