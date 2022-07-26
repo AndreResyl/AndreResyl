@@ -1,6 +1,6 @@
  <!--<img src="https://user-images.githubusercontent.com/78174997/179075643-5a40d774-a883-4e4f-8d66-9ad003f7d7e4.png" width="100%"/>-->
 
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=6cb5e3&duration=3000&center=true&vCenter=true&lines&width=1000&lines=André+Proenza;)
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=6cb5e3&duration=3000&center=true&vCenter=true&lines&width=1000&lines=André+Resyl;)
 
 <div align="center">
   <!--<h1>André Proenza</h1>-->
